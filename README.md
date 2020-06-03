@@ -1,5 +1,5 @@
 # CFGAN
-Implementation of CFGAN. The implementation based on Pytorch is done, and the max precision on ML100k is 0.56.
+Implementation of CFGAN. The implementation based on Pytorch is done, and the max precision on ML100k is 0.49 in 1000 train epochs.
 
 Next, we consider implementing another version based on Tensorflow.
 
